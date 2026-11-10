@@ -1,0 +1,1 @@
+这个数据库连接的本地数据库，数据库名位baseDB，表为table1，数据库用的是SQLSever
